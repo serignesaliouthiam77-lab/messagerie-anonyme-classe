@@ -6,3 +6,4 @@ messagerie-anonyme-classe/
 ├── style.css
 ├── script.js
 └── README.md
+index.html
