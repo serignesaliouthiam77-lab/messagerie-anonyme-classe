@@ -178,4 +178,4 @@ window.addEventListener("load", function() {
         loadMessages();
     }
 
-}); 
+});  
